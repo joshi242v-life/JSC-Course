@@ -1,0 +1,219 @@
+<div style="font-family: Georgia, 'Times New Roman', serif; color:#201C16; max-width: 900px; margin: 0 auto; line-height:1.6;">
+
+  <!-- Core-sample legend (static, decorative) -->
+  <div style="display:table; width:100%; border:1px solid #E3DCC9; border-radius:4px; margin-bottom:28px; background:#FBF8F0;">
+    <div style="display:table-row;">
+      <div style="display:table-cell; width:12px; background:#2F4A3C;">&nbsp;</div>
+      <div style="display:table-cell; padding:10px 14px; font-family: Arial, Helvetica, sans-serif; font-size:12px; letter-spacing:0.06em; text-transform:uppercase; color:#52493C;">Formation &amp; Geography</div>
+      <div style="display:table-cell; width:12px; background:#A17A00;">&nbsp;</div>
+      <div style="display:table-cell; padding:10px 14px; font-family: Arial, Helvetica, sans-serif; font-size:12px; letter-spacing:0.06em; text-transform:uppercase; color:#52493C;">Population &amp; Literacy</div>
+      <div style="display:table-cell; width:12px; background:#8A3A28;">&nbsp;</div>
+      <div style="display:table-cell; padding:10px 14px; font-family: Arial, Helvetica, sans-serif; font-size:12px; letter-spacing:0.06em; text-transform:uppercase; color:#52493C;">Mineral Wealth</div>
+    </div>
+  </div>
+
+  <!-- HERO -->
+  <div style="font-family: Arial, Helvetica, sans-serif; font-size:12px; letter-spacing:0.12em; text-transform:uppercase; color:#2F4A3C; font-weight:bold; margin-bottom:14px;">
+    Module 1 &middot; State Foundations
+  </div>
+  <h1 style="font-family: Georgia, 'Times New Roman', serif; font-size:34px; font-weight:bold; margin:0 0 16px 0; line-height:1.15;">
+    Jharkhand: A State Profile
+  </h1>
+  <p style="font-family: Arial, Helvetica, sans-serif; font-size:16px; color:#52493C; max-width:60ch; margin:0 0 22px 0;">
+    A plateau state carved from southern Bihar, defined as much by its forest and mineral tableland as by the development gap that motivates its education reform agenda.
+  </p>
+
+  <div style="margin-bottom:36px;">
+    <span style="display:inline-block; border:1px solid #E3DCC9; background:#FBF8F0; border-radius:999px; padding:8px 16px; font-family: Arial, Helvetica, sans-serif; font-size:13px; margin:0 8px 8px 0;">Formed <strong>15 Nov 2000</strong></span>
+    <span style="display:inline-block; border:1px solid #E3DCC9; background:#FBF8F0; border-radius:999px; padding:8px 16px; font-family: Arial, Helvetica, sans-serif; font-size:13px; margin:0 8px 8px 0;">Capital <strong>Ranchi</strong></span>
+    <span style="display:inline-block; border:1px solid #E3DCC9; background:#FBF8F0; border-radius:999px; padding:8px 16px; font-family: Arial, Helvetica, sans-serif; font-size:13px; margin:0 8px 8px 0;"><strong>5</strong> divisions</span>
+    <span style="display:inline-block; border:1px solid #E3DCC9; background:#FBF8F0; border-radius:999px; padding:8px 16px; font-family: Arial, Helvetica, sans-serif; font-size:13px; margin:0 8px 8px 0;"><strong>24</strong> districts</span>
+    <span style="display:inline-block; border:1px solid #E3DCC9; background:#FBF8F0; border-radius:999px; padding:8px 16px; font-family: Arial, Helvetica, sans-serif; font-size:13px; margin:0 8px 8px 0;">Census <strong>2011</strong></span>
+  </div>
+
+  <!-- LESSON 1.1 -->
+  <div style="border-left:4px solid #2F4A3C; padding-left:20px; margin-bottom:56px;">
+    <div style="font-family: Arial, Helvetica, sans-serif; font-size:12px; color:#2F4A3C; font-weight:bold; margin-bottom:4px;">LESSON 1.1 &middot; TEXT + DOCUMENT</div>
+    <h2 style="font-family: Georgia, 'Times New Roman', serif; font-size:24px; margin:0 0 16px 0; border-bottom:2px solid #2F4A3C; padding-bottom:12px;">
+      Formation, Geography &amp; Administration
+    </h2>
+
+    <p style="font-family: Arial, Helvetica, sans-serif; font-size:15px; max-width:65ch;">
+      Jharkhand was carved out of the southern districts of undivided Bihar on 15 November 2000, becoming India's 28th state. The date coincides with the birth anniversary of Birsa Munda, the tribal freedom fighter from the Munda community.
+    </p>
+    <p style="font-family: Arial, Helvetica, sans-serif; font-size:15px; max-width:65ch;">
+      The state spans the Chota Nagpur Plateau and Santhal Pargana region. Per the Government of Jharkhand's official state portal, the state is organised into 5 administrative divisions comprising 24 districts.
+    </p>
+
+    <h3 style="font-family: Georgia, 'Times New Roman', serif; font-size:16px; color:#2F4A3C; margin:28px 0 12px 0;">Divisions &amp; Districts</h3>
+
+    <table style="width:100%; border-collapse:collapse; font-family: Arial, Helvetica, sans-serif; font-size:13px; border:1px solid #E3DCC9;">
+      <tr>
+        <td style="background:#DCE4DA; padding:12px 16px; width:170px; border:1px solid #E3DCC9; vertical-align:top;"><strong>Palamu</strong><br><span style="color:#52493C; font-size:12px;">HQ &mdash; Medininagar</span></td>
+        <td style="padding:12px 16px; border:1px solid #E3DCC9;">Palamu, Garhwa, Latehar</td>
+      </tr>
+      <tr>
+        <td style="background:#DCE4DA; padding:12px 16px; border:1px solid #E3DCC9; vertical-align:top;"><strong>North Chotanagpur</strong><br><span style="color:#52493C; font-size:12px;">HQ &mdash; Hazaribagh</span></td>
+        <td style="padding:12px 16px; border:1px solid #E3DCC9;">Chatra, Hazaribagh, Koderma, Giridih, Ramgarh, Bokaro, Dhanbad</td>
+      </tr>
+      <tr>
+        <td style="background:#DCE4DA; padding:12px 16px; border:1px solid #E3DCC9; vertical-align:top;"><strong>South Chotanagpur</strong><br><span style="color:#52493C; font-size:12px;">HQ &mdash; Ranchi</span></td>
+        <td style="padding:12px 16px; border:1px solid #E3DCC9;">Lohardaga, Gumla, Simdega, Ranchi, Khunti</td>
+      </tr>
+      <tr>
+        <td style="background:#DCE4DA; padding:12px 16px; border:1px solid #E3DCC9; vertical-align:top;"><strong>Kolhan</strong><br><span style="color:#52493C; font-size:12px;">HQ &mdash; Chaibasa</span></td>
+        <td style="padding:12px 16px; border:1px solid #E3DCC9;">West Singhbhum, Saraikela-Kharsawan, East Singhbhum</td>
+      </tr>
+      <tr>
+        <td style="background:#DCE4DA; padding:12px 16px; border:1px solid #E3DCC9; vertical-align:top;"><strong>Santhal Pargana</strong><br><span style="color:#52493C; font-size:12px;">HQ &mdash; Dumka</span></td>
+        <td style="padding:12px 16px; border:1px solid #E3DCC9;">Jamtara, Deoghar, Dumka, Pakur, Godda, Sahebganj</td>
+      </tr>
+    </table>
+    <p style="font-family: Arial, Helvetica, sans-serif; font-size:12px; color:#52493C; margin-top:10px;">
+      Figure 1.1 &mdash; Jharkhand's 5 divisions and 24 districts. Source: Government of Jharkhand State Portal &mdash;
+      <a href="https://www.jharkhand.gov.in/home/stateprofile" style="color:#52493C;">jharkhand.gov.in/home/stateprofile</a> and
+      <a href="https://www.jharkhand.gov.in/Home/DistrictList" style="color:#52493C;">jharkhand.gov.in/Home/DistrictList</a>
+    </p>
+
+    <div style="border-top:1px dashed #E3DCC9; margin-top:28px; padding-top:16px;">
+      <div style="font-family: Arial, Helvetica, sans-serif; font-size:11px; letter-spacing:0.08em; text-transform:uppercase; color:#2F4A3C; font-weight:bold; margin-bottom:8px;">Module Takeaways</div>
+      <p style="font-family: Arial, Helvetica, sans-serif; font-size:14px; margin:6px 0;">&#10003;&nbsp; Jharkhand became India's 28th state on 15 November 2000, formed from southern Bihar.</p>
+      <p style="font-family: Arial, Helvetica, sans-serif; font-size:14px; margin:6px 0;">&#10003;&nbsp; 5 administrative divisions, 24 districts. Ranchi (South Chotanagpur division) is the state capital.</p>
+      <p style="font-family: Arial, Helvetica, sans-serif; font-size:14px; margin:6px 0;">&#10003;&nbsp; The Chota Nagpur Plateau and Santhal Pargana define the state's geography &mdash; dense forest, mineral-rich tableland.</p>
+    </div>
+  </div>
+
+  <!-- LESSON 1.2 -->
+  <div style="border-left:4px solid #A17A00; padding-left:20px; margin-bottom:56px;">
+    <div style="font-family: Arial, Helvetica, sans-serif; font-size:12px; color:#A17A00; font-weight:bold; margin-bottom:4px;">LESSON 1.2 &middot; TEXT + DOCUMENT</div>
+    <h2 style="font-family: Georgia, 'Times New Roman', serif; font-size:24px; margin:0 0 16px 0; border-bottom:2px solid #A17A00; padding-bottom:12px;">
+      Population &amp; Literacy
+    </h2>
+    <p style="font-family: Arial, Helvetica, sans-serif; font-size:13px; color:#52493C;">Source: Census of India 2011 &mdash; Office of the Registrar General &amp; Census Commissioner, censusindia.gov.in</p>
+
+    <div style="margin:20px 0;">
+      <div style="display:inline-block; width:31%; min-width:180px; vertical-align:top; border:1px solid #E3DCC9; background:#FBF8F0; border-radius:4px; padding:18px; margin:0 2% 12px 0;">
+        <div style="font-family: Arial, Helvetica, sans-serif; font-size:11px; text-transform:uppercase; color:#52493C;">Total Population</div>
+        <div style="font-family: Georgia, serif; font-size:26px; font-weight:bold; color:#A17A00; margin-top:6px;">3.30 <span style="font-size:14px; font-weight:normal; color:#52493C;">crore</span></div>
+        <div style="font-family: Arial, Helvetica, sans-serif; font-size:11px; color:#52493C; margin-top:4px;">3,29,88,134 exact</div>
+      </div>
+      <div style="display:inline-block; width:31%; min-width:180px; vertical-align:top; border:1px solid #E3DCC9; background:#FBF8F0; border-radius:4px; padding:18px; margin:0 2% 12px 0;">
+        <div style="font-family: Arial, Helvetica, sans-serif; font-size:11px; text-transform:uppercase; color:#52493C;">Rural Population Share</div>
+        <div style="font-family: Georgia, serif; font-size:26px; font-weight:bold; color:#A17A00; margin-top:6px;">75.95%</div>
+      </div>
+      <div style="display:inline-block; width:31%; min-width:180px; vertical-align:top; border:1px solid #E3DCC9; background:#FBF8F0; border-radius:4px; padding:18px; margin:0 0 12px 0;">
+        <div style="font-family: Arial, Helvetica, sans-serif; font-size:11px; text-transform:uppercase; color:#52493C;">Overall Literacy Rate</div>
+        <div style="font-family: Georgia, serif; font-size:26px; font-weight:bold; color:#A17A00; margin-top:6px;">66.41%</div>
+      </div>
+    </div>
+
+    <h3 style="font-family: Georgia, serif; font-size:16px; color:#A17A00; margin:24px 0 14px 0;">Literacy Gap &amp; Social Composition</h3>
+
+    <table style="width:100%; border-collapse:collapse; font-family: Arial, Helvetica, sans-serif; font-size:13px;">
+      <tr>
+        <td style="width:120px; padding:6px 0;">Male literacy</td>
+        <td style="padding:6px 0;">
+          <table style="width:100%; border-collapse:collapse;"><tr><td style="background:#EEE8D8; border-radius:4px;">
+            <table style="width:76.84%; border-collapse:collapse;"><tr><td style="background:#A17A00; border-radius:4px; height:10px; font-size:1px; line-height:1px;">&nbsp;</td></tr></table>
+          </td></tr></table>
+        </td>
+        <td style="width:56px; text-align:right; padding:6px 0;">76.84%</td>
+      </tr>
+      <tr>
+        <td style="padding:6px 0;">Female literacy</td>
+        <td style="padding:6px 0;">
+          <table style="width:100%; border-collapse:collapse;"><tr><td style="background:#EEE8D8; border-radius:4px;">
+            <table style="width:55.42%; border-collapse:collapse;"><tr><td style="background:#A17A00; border-radius:4px; height:10px; font-size:1px; line-height:1px;">&nbsp;</td></tr></table>
+          </td></tr></table>
+        </td>
+        <td style="text-align:right; padding:6px 0;">55.42%</td>
+      </tr>
+      <tr>
+        <td style="padding:6px 0;">ST population</td>
+        <td style="padding:6px 0;">
+          <table style="width:100%; border-collapse:collapse;"><tr><td style="background:#EEE8D8; border-radius:4px;">
+            <table style="width:26.21%; border-collapse:collapse;"><tr><td style="background:#2F4A3C; border-radius:4px; height:10px; font-size:1px; line-height:1px;">&nbsp;</td></tr></table>
+          </td></tr></table>
+        </td>
+        <td style="text-align:right; padding:6px 0;">26.21%</td>
+      </tr>
+      <tr>
+        <td style="padding:6px 0;">SC population</td>
+        <td style="padding:6px 0;">
+          <table style="width:100%; border-collapse:collapse;"><tr><td style="background:#EEE8D8; border-radius:4px;">
+            <table style="width:12.08%; border-collapse:collapse;"><tr><td style="background:#2F4A3C; border-radius:4px; height:10px; font-size:1px; line-height:1px;">&nbsp;</td></tr></table>
+          </td></tr></table>
+        </td>
+        <td style="text-align:right; padding:6px 0;">12.08%</td>
+      </tr>
+    </table>
+
+    <div style="background:#EDE1BC; border-radius:4px; padding:18px 22px; margin-top:24px;">
+      <div style="font-family: Georgia, serif; font-weight:bold; font-size:14px; margin-bottom:4px;">&#9733; Key Insight</div>
+      <p style="font-family: Arial, Helvetica, sans-serif; font-size:14px; margin:0; max-width:65ch;">
+        Jharkhand's rural population share (75.95%, Census 2011) is significantly above the national rural average. This matters directly for education delivery &mdash; most schools serve dispersed rural habitations, which is a recurring operational theme across every module in this chapter.
+      </p>
+    </div>
+
+    <div style="border-top:1px dashed #E3DCC9; margin-top:28px; padding-top:16px;">
+      <div style="font-family: Arial, Helvetica, sans-serif; font-size:11px; letter-spacing:0.08em; text-transform:uppercase; color:#A17A00; font-weight:bold; margin-bottom:8px;">Module Takeaways</div>
+      <p style="font-family: Arial, Helvetica, sans-serif; font-size:14px; margin:6px 0;">&#10003;&nbsp; Census 2011 population: ~3.30 crore, over 75% rural.</p>
+      <p style="font-family: Arial, Helvetica, sans-serif; font-size:14px; margin:6px 0;">&#10003;&nbsp; Overall literacy 66.41%; a persistent gender gap exists (male 76.84% vs female 55.42%).</p>
+      <p style="font-family: Arial, Helvetica, sans-serif; font-size:14px; margin:6px 0;">&#10003;&nbsp; ST population share (26.21%) is among the highest of any Indian state &mdash; this defines much of Jharkhand's education policy focus, covered in Module 3.</p>
+    </div>
+  </div>
+
+  <!-- LESSON 1.3 -->
+  <div style="border-left:4px solid #8A3A28; padding-left:20px; margin-bottom:20px;">
+    <div style="font-family: Arial, Helvetica, sans-serif; font-size:12px; color:#8A3A28; font-weight:bold; margin-bottom:4px;">LESSON 1.3 &middot; TEXT</div>
+    <h2 style="font-family: Georgia, serif; font-size:24px; margin:0 0 16px 0; border-bottom:2px solid #8A3A28; padding-bottom:12px;">
+      Mineral Wealth
+    </h2>
+    <p style="font-family: Arial, Helvetica, sans-serif; font-size:13px; color:#52493C;">Source: Government of Jharkhand &mdash; Department of Mines and Geology, and NITI Aayog</p>
+
+    <p style="font-family: Arial, Helvetica, sans-serif; font-size:15px; max-width:65ch;">
+      Jharkhand holds a substantial share of India's mineral reserves and ranks first nationally in coal reserves, with significant additional deposits of iron ore, bauxite, copper, and limestone.
+    </p>
+
+    <div style="margin:20px 0;">
+      <div style="display:inline-block; border:1px solid #E3DCC9; background:#FBF8F0; border-radius:4px; padding:12px 18px; margin:0 10px 10px 0;">
+        <div style="font-family: Georgia, serif; font-weight:bold; font-size:14px;">Jharia &amp; Bokaro</div>
+        <div style="font-family: Arial, Helvetica, sans-serif; font-size:12px; color:#52493C;">Coal</div>
+      </div>
+      <div style="display:inline-block; border:1px solid #E3DCC9; background:#FBF8F0; border-radius:4px; padding:12px 18px; margin:0 10px 10px 0;">
+        <div style="font-family: Georgia, serif; font-weight:bold; font-size:14px;">West Singhbhum</div>
+        <div style="font-family: Arial, Helvetica, sans-serif; font-size:12px; color:#52493C;">Iron ore</div>
+      </div>
+      <div style="display:inline-block; border:1px solid #E3DCC9; background:#FBF8F0; border-radius:4px; padding:12px 18px; margin:0 10px 10px 0;">
+        <div style="font-family: Georgia, serif; font-weight:bold; font-size:14px;">Singhbhum belt</div>
+        <div style="font-family: Arial, Helvetica, sans-serif; font-size:12px; color:#52493C;">Copper</div>
+      </div>
+    </div>
+
+    <h3 style="font-family: Georgia, serif; font-size:16px; color:#8A3A28; margin:24px 0 12px 0;">NITI Aayog Aspirational Districts Programme</h3>
+    <p style="font-family: Arial, Helvetica, sans-serif; font-size:15px; max-width:65ch;">
+      Several Jharkhand districts are included in NITI Aayog's Aspirational Districts Programme &mdash; a national initiative that identifies districts lagging on health, education, agriculture, financial inclusion, and infrastructure indicators for concentrated, monitored improvement.
+      Source: <a href="https://www.niti.gov.in/aspirational-districts-programme" style="color:#52493C;">niti.gov.in/aspirational-districts-programme</a>
+    </p>
+
+    <div style="background:#EADAD3; border-radius:4px; padding:18px 22px; margin-top:20px;">
+      <div style="font-family: Georgia, serif; font-weight:bold; font-size:14px; margin-bottom:4px;">! Why This Matters for Education Work</div>
+      <p style="font-family: Arial, Helvetica, sans-serif; font-size:14px; margin:0; max-width:65ch;">
+        A state with such significant natural resource wealth having a large share of its districts flagged as developmentally "aspirational" is the central paradox that motivates Jharkhand's education reform agenda, discussed throughout Modules 2 to 5.
+      </p>
+    </div>
+
+    <div style="border-top:1px dashed #E3DCC9; margin-top:28px; padding-top:16px;">
+      <div style="font-family: Arial, Helvetica, sans-serif; font-size:11px; letter-spacing:0.08em; text-transform:uppercase; color:#8A3A28; font-weight:bold; margin-bottom:8px;">Module Takeaways</div>
+      <p style="font-family: Arial, Helvetica, sans-serif; font-size:14px; margin:6px 0;">&#10003;&nbsp; Jharkhand ranks first in India for coal reserves and holds substantial iron ore, bauxite, and copper deposits.</p>
+      <p style="font-family: Arial, Helvetica, sans-serif; font-size:14px; margin:6px 0;">&#10003;&nbsp; Several districts are part of NITI Aayog's Aspirational Districts Programme, reflecting a gap between resource wealth and human development indicators.</p>
+      <p style="font-family: Arial, Helvetica, sans-serif; font-size:14px; margin:6px 0;">&#10003;&nbsp; This gap is the policy backdrop for the education reforms covered in the rest of this chapter.</p>
+    </div>
+  </div>
+
+  <div style="border-top:1px solid #E3DCC9; padding-top:18px; font-family: Arial, Helvetica, sans-serif; font-size:12px; color:#52493C;">
+    <div style="margin-bottom:6px;">Sources: Government of Jharkhand State Portal (jharkhand.gov.in) &middot; Census of India 2011 (censusindia.gov.in) &middot; NITI Aayog Aspirational Districts Programme (niti.gov.in)</div>
+    <div>Module 1 &mdash; State Foundations &middot; Jharkhand School Certification Programme</div>
+  </div>
+
+</div>
